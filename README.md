@@ -22,22 +22,83 @@
 
 ## 🧑‍💼 About Me
 
-```python
-yash = {
-    "name"       : "Yash Gupta",
-    "role"       : "Business Analyst | Data Analyst",
-    "education"  : [
-        "MSc Business Analytics — Dublin Business School, Ireland (2:1 Honours)",
-        "B.Com (H) Business & Finance — GGSIPU, New Delhi (CGPA: 8.72/10)"
-    ],
-    "thesis"     : "Social Media Insights for Competitive Market Analysis (NLP + Sentiment Analysis)",
-    "experience" : "3+ years across SaaS, FMCG & Supply Chain",
-    "location"   : "New Delhi 🇮🇳 — open to Remote & Hybrid",
-    "seeking"    : ["Business Analyst", "Data Analyst", "Insights Analyst"],
-    "currently"  : "Building data projects & expanding my Python analytics portfolio",
-    "superpower" : "Bridging the gap between raw data and business strategy"
-}
-```
+<table>
+<tr>
+<td>
+
+**👤 Name**
+
+</td>
+<td>Yash Gupta</td>
+</tr>
+<tr>
+<td>
+
+**💼 Role**
+
+</td>
+<td>Business Analyst | Data Analyst</td>
+</tr>
+<tr>
+<td>
+
+**🎓 Education**
+
+</td>
+<td>
+MSc Business Analytics — Dublin Business School, Ireland <em>(2:1 Honours)</em><br/>
+B.Com (H) Business & Finance — GGSIPU, New Delhi <em>(CGPA: 8.72/10)</em>
+</td>
+</tr>
+<tr>
+<td>
+
+**📝 Thesis**
+
+</td>
+<td><em>"Social Media Insights for Competitive Market Analysis"</em> — NLP + Sentiment Analysis</td>
+</tr>
+<tr>
+<td>
+
+**🏢 Experience**
+
+</td>
+<td>3+ years across SaaS, FMCG & Supply Chain</td>
+</tr>
+<tr>
+<td>
+
+**📍 Location**
+
+</td>
+<td>New Delhi 🇮🇳 — open to Remote & Hybrid</td>
+</tr>
+<tr>
+<td>
+
+**🔍 Seeking**
+
+</td>
+<td>Business Analyst &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Insights Analyst</td>
+</tr>
+<tr>
+<td>
+
+**🚀 Currently**
+
+</td>
+<td>Building data projects & expanding my Python analytics portfolio</td>
+</tr>
+<tr>
+<td>
+
+**⚡ Superpower**
+
+</td>
+<td>Bridging the gap between raw data and business strategy</td>
+</tr>
+</table>
 
 ---
 
